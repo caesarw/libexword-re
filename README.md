@@ -39,10 +39,10 @@ _Exword_ comes with various functions. Here is the list.
 * **capacity**  
   This command displays the capacity of the currently selected storage medium.
 
-* **format **  
+* **format**  
   This command will format the currently inserted SD card.
 
-* **list **  
+* **list**  
   This command will list all files and directories in your current directory.
   
   
@@ -89,7 +89,6 @@ _Exword_ comes with various functions. Here is the list.
 
 # Credits
 
-Brian Johnson [@brijohn](https://github.com/brijohn) is the creator of _exword_ power tool.
-
-Caesar Woo [@CaesarW](https://github.com/CaesarW) does the fork job and tries to bring modern compatibility to the software.
+Brian Johnson [@brijohn](https://github.com/brijohn) is the creator of _exword_ power tool.  
+Caesar Woo [@CaesarW](https://github.com/CaesarW) does the fork job and tries to bring modern compatibility to the software.  
 

@@ -1,0 +1,15 @@
+# Supported Models
+
+This table contains a list of model Information that's currently supported by _Exword_ for _Casio EX-word_ dictionaries.
+
+| Dictionary            | Model           | Sub-model | Extended | USB ID    |
+| --------------------- | --------------- | --------- | -------- | --------- |
+| Dataplus 3 XD-GW9600  | gy131, ON, 0101 | gy392     |          | 07cf:6101 |
+| Dataplus 3 XD-SW4800  | gy131, ON, 0101 | gy350     |          | 07cf:6101 |
+| Dataplus 4 XD-SP9500  | gy131, ON, 0101 | gy823     |          | 07cf:6101 |
+| Dataplus 4 EV-SP2900  | gy131, ON, 0100 | gy808     |          | 07cf:6101 |
+| Dataplus 4 XD-GF10000 | gy131, ON, 0100 | gy871     |          | 07cf:6101 |
+| Dataplus 4 XD-SF6350  | gy131, ON, 0300 | gy878     |          | 07cf:6101 |
+| Dataplus 5 XD-A8500   | gy131, ON, 0100 | gy999     | CY101    | 07cf:6101 |
+| Dataplus 5 E-A800     | gy131, ON, 0100 | gy999     | CY123    | 07cf:6101 |
+

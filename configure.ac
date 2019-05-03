@@ -35,8 +35,8 @@ AC_CHECK_LIB(readline, readline, AC_SUBST([READLINE_LIBS], [-lreadline]), [AC_MS
 AC_CHECK_FUNC(iconv_open, [], [AC_CHECK_LIB(iconv, libiconv_open, AC_SUBST([ICONV_LIBS], [-liconv]), [AC_MSG_ERROR([iconv support not available])])])
 
 # Checks for typedefs, structures, and compiler characteristics.
-LIBUSB_REQURED=1.0
-PKG_CHECK_MODULES([USB],[libusb-1.0 >= $LIBUSB_REQURED])
+LIBUSB_REQUIRED=1.0
+PKG_CHECK_MODULES([USB],[libusb-1.0 >= $LIBUSB_REQUIRED])
 
 AC_SUBST([EXTRA_LDFLAGS])
 AC_SUBST([EXTRA_LIBS])

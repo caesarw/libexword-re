@@ -4,7 +4,7 @@ pkgconfigdir = $(libdir)/pkgconfig
 pkgconfig_DATA = libexword.pc
 
 extradir = $(datadir)/exword
-extra_DATA = models.txt
+extra_DATA = models.md
 
 DISTCLEANFILES = src/Makefile.in \
                  docs/Makefile.in \

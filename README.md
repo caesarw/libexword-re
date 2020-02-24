@@ -12,13 +12,28 @@ Features:
 
 # Installation
 
-You can simple clone the repository and compile on your Linux machine.
+You can simple clone the repository and do a compilation.
 
 ## Dependencies
 
-On _Ubuntu (*buntu, Debian)_: ` build-essential autoconf libusb-1.0 libglib2.0-dev libreadline-dev libtool`
+On _Debian based distros (*buntu)_: ` build-essential cmake libusb-1.0 libglib2.0-dev libreadline-dev libtool`
+
+On *Arch Linux*: ```base-devel libusb cmake readline libtool glib2```
 
 On _Fedora (RHEL)_: ...
+
+## Compiling
+
+On Terminal:
+
+```bash
+git clone https://github.com/CaesarW/libexword-re.git
+cd libexword-re
+mkdir build
+cd build
+cmake ..
+make
+```
 
 # Commands
 _Exword_ comes with various functions. Here is the list.
